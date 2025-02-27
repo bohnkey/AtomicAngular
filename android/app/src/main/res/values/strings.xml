@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">atomic-angular</string>
+    <string name="title_activity_main">atomic-angular</string>
+    <string name="package_name">com.atomicangular.app</string>
+    <string name="custom_url_scheme">com.atomicangular.app</string>
+</resources>
